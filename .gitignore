@@ -1,0 +1,43 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (if too large)
+*.csv
+*.npy
+*.npz
+*.mat
+*.edf
+
+# Logs and outputs
+*.log
+*.aux
+*.out
+figures/
+
+# OS files
+.DS_Store
+Thumbs.db
